@@ -1,0 +1,16 @@
+first cuts:	for the center joint a 2.omm notch seems the best. after filing
+		the joined pieces were close to even. might experiment with 2.1-
+		2.2mm notch. motor mount point seemed like 1.5mm was best but
+		cant be sure until I have motors to test with. the holes were
+		drilled off center because I didn't properly align the pieces in
+		the jig. plan to make the jig idiot proof for next go. there was
+		a lot of moisture in the bamboo, not sure if drying them out
+		more would help get better cuts on the laser. or maybe it will
+		cause the wood to warp more.
+second cuts:	this time the holes were unaligned on the other axis and i
+		accidentaly had the motor mount depth at 2.0mm instead of 1.5mm
+		I assume the misalignment was caused by not placing the jig in
+		the corner properly. maybe change jig to have all sides cut and
+		a gap in the corner to avoid corner issues. don't need to recut
+		the trimming jig but do need to recut the main jig. 2 sticks
+		weigh 3.9g (compare to kabab toothpick 10.4g @ $16.00)

@@ -1,0 +1,18 @@
+1)	Etch and cut out jigs using truethpickv1jig.svg
+2)	Secure bamboo dowels in jig with a non permanent adhesive. a small dab
+	of hot glue at marked spots should work for this.
+3)	Use truethpickv1firstcut.svg to cut notches in the dowels
+4)	Remove glue and turn the dowels 90 degrees. one should have 3 notches
+	facing up, the other should have 2.
+5)	Use the alignment jigs to ensure the dowels are properly aligned
+6)	See step 2
+7)	Use truethpickv1holes.svg to cut the mounting holes in the dowel
+8)	Use truethpickv1finalcut.svg to trim the dowels to the correct length
+9)	Remove dowels from the jig, the jig can be reused for future frames
+	you may want to make several pairs for quick rebuilds
+10)	Lightly sand or file the char away on places that will be glued
+11)	Use the gluing jig to align and glue the 2 pieces
+12)	Reinforce the joint by applying CA glue to lashing with string [wording]
+13)	Use fasteners and e600 to attatch brace plate
+14)	add components as desired
+

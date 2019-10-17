@@ -1,0 +1,13 @@
+motormount pattern: square kind, but only use 2 screws
+hub to hub arm length: 125mm
+prop size: 65mm to 75mm
+flight controler:	aio 26mmx26mm (is that a square or a cross? find out)
+			16mm stack (what size screw does this use)
+			20mm stack (what size screw does this use)
+battery: 1s LiPo
+motor:
+	motor mount pattern: 2mm holes spaced 9mm on center
+	motor mount edge to edge probably 15mm or 13mm
+	only need to trim down about 1 mm deep for motor mounts to leave maximum	material on a 5mm bamboo stick. experiment with depth of cut for
+	comparing srength of thicker mount to stability of wider mount surface
+screws: 2mm or smaller only

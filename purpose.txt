@@ -1,0 +1,6 @@
+toothpick frame made of bamboo sticks and maybe other wood
+goal is to be light weight and CHEAP as SHIT
+project should have all the information and files to allow anyone with access
+to a cnc laser or router to fabricate the frame
+eventually have multiple formats of files ie pdf, gcode, etc for more universal
+access
